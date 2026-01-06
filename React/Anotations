@@ -1,0 +1,16 @@
+What1s the React?
+React is a JavaScript library create by Facebook uses for build the Single page application (SPA)
+It uses the concept os the "components", which are reusables blocks
+
+What's the Virtual DOM?
+DOM is a tree represetation of all the HTML elements on a WEB page
+The virtual DOM creates a lightweight copy and only alters what has been modified, which improves performance.
+
+What's Node.js?
+Is a excution environment that allows the use of JavaScritp
+
+What's NPM (Node packet manager)?
+It is a defult packet manager of Node.js
+
+What's Vite:
+It's a buid tool for create the projects
